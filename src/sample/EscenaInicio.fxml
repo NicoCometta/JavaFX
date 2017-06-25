@@ -14,12 +14,12 @@
             <children>
                 <HBox alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0">
                     <children>
-                        <Label text="Gerreros Z (J1):" textAlignment="RIGHT">
+                        <Label text="Gerreros Z:" textAlignment="RIGHT">
                             <HBox.margin>
                                 <Insets right="10.0" />
                             </HBox.margin>
                         </Label>
-                        <TextField>
+                        <TextField promptText="Jugador 1">
                             <padding>
                                 <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
                             </padding>
@@ -31,12 +31,12 @@
                 </HBox>
                 <HBox alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0">
                     <children>
-                        <Label text="enemigos de La Tierra (J2):" textAlignment="RIGHT">
+                        <Label text="Enemigos de La Tierra :" textAlignment="RIGHT">
                             <HBox.margin>
                                 <Insets right="10.0" />
                             </HBox.margin>
                         </Label>
-                        <TextField>
+                        <TextField promptText="Jugador 2">
                             <HBox.margin>
                                 <Insets right="10.0" />
                             </HBox.margin>
